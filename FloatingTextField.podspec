@@ -9,6 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = 'FloatingTextField'
   s.version          = '0.1.0'
+  s.swift_versions  = '5'
   s.summary          = 'A short description of FloatingTextField.'
 
 # This description is used to generate tags and improve search results.
